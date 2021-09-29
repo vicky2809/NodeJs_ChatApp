@@ -1,0 +1,22 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "vignesh",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "body-parser": "^1.19.0",
+    "bootstrap": "^3.4.1",
+    "express": "^4.17.1",
+    "http": "^0.0.1-security",
+    "mongoose": "^6.0.8",
+    "nodemon": "^2.0.13",
+    "socket.io": "^4.2.0"
+  }
+}
